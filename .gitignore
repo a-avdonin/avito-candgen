@@ -1,0 +1,8 @@
+cache
+
+venv/
+models/
+
+benchmark_items.parquet
+benchmark_queries.parquet
+train.parquet
