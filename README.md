@@ -4,7 +4,7 @@
 
 *…и ещё 2 451 услугу по запросу*
 
-![Recall@50](https://img.shields.io/badge/Recall@50-0.847-00C853?style=for-the-badge)
+![Recall@50](https://img.shields.io/badge/Recall@50-0.849-00C853?style=for-the-badge)
 ![Coffee](https://img.shields.io/badge/кофе-выпито%20много-6F4E37?style=for-the-badge)
 ![Mood](https://img.shields.io/badge/хочу%20на-bootcamp-8A2BE2?style=for-the-badge)
 
